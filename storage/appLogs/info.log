@@ -1,0 +1,179 @@
+2024-06-17T17:40:14.166+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T17:41:07.872+0800	INFO	middlewares/logger.go:61	/ping	{"status": 404, "method": "GET", "path": "/ping", "query": "", "ip": "127.0.0.1", "user-agent": "PostmanRuntime/7.32.3", "errors": "", "cost": 0.0005099}
+2024-06-17T17:41:31.308+0800	INFO	router/router.go:21	ping	{"status": 200, "method": "GET", "path": "/api/ping", "query": "", "ip": "127.0.0.1", "user-agent": "PostmanRuntime/7.32.3", "body": ""}
+2024-06-17T17:41:31.309+0800	INFO	middlewares/logger.go:61	/api/ping	{"status": 200, "method": "GET", "path": "/api/ping", "query": "", "ip": "127.0.0.1", "user-agent": "PostmanRuntime/7.32.3", "errors": "", "cost": 0.0122881}
+2024-06-17T20:20:52.874+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T20:20:52.881+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T20:29:40.893+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T20:29:45.197+0800	INFO	router/router.go:22	ping	{"status": 200, "method": "GET", "path": "/api/ping", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "body": ""}
+2024-06-17T20:29:45.197+0800	INFO	middlewares/logger.go:61	/api/ping	{"status": 200, "method": "GET", "path": "/api/ping", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0}
+2024-06-17T20:30:19.107+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 404, "method": "GET", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0}
+2024-06-17T20:37:33.929+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 200, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0143525}
+2024-06-17T20:38:19.630+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 200, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.011946}
+2024-06-17T20:38:50.768+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T20:38:50.779+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T20:38:53.199+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T20:38:59.008+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 500, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0017406}
+2024-06-17T20:41:20.733+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T20:41:20.734+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T20:41:36.102+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T20:41:47.168+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 500, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.001034}
+2024-06-17T20:42:12.883+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T20:42:12.884+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T20:42:14.911+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T20:42:21.071+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 500, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0010652}
+2024-06-17T20:52:07.994+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T20:52:08.005+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T21:06:05.760+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T21:06:52.261+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 200, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.1060908}
+2024-06-17T21:08:33.398+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T21:08:33.408+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T21:08:35.509+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T21:08:46.069+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 200, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.099714}
+2024-06-17T21:10:11.109+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T21:10:11.109+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T21:10:12.888+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T21:10:19.182+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 500, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.3347317}
+2024-06-17T21:11:09.102+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T21:11:09.102+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T21:11:11.762+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T21:11:14.977+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 200, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0513869}
+2024-06-17T21:17:35.873+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T21:17:35.885+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T21:17:38.364+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T21:17:45.974+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 200, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.052685}
+2024-06-17T21:19:46.209+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T21:19:46.209+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T21:19:48.475+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T21:19:58.189+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 200, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0564748}
+2024-06-17T21:20:30.807+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 500, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.2589723}
+2024-06-17T21:20:54.048+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T21:20:54.049+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T21:20:55.968+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T21:20:59.676+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 200, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0527909}
+2024-06-17T21:24:20.965+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 500, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.2587676}
+2024-06-17T21:24:22.284+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 200, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0456986}
+2024-06-17T21:24:40.699+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 500, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.2031208}
+2024-06-17T21:24:43.077+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 200, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0422471}
+2024-06-17T21:24:47.898+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 500, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.2143031}
+2024-06-17T21:24:49.000+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 200, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0447105}
+2024-06-17T21:27:27.687+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T21:27:27.687+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T21:27:29.809+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T21:27:37.767+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 500, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.2470539}
+2024-06-17T21:43:50.759+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T21:43:50.759+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T21:43:53.682+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T21:44:03.582+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 500, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.2812119}
+2024-06-17T21:47:26.943+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T21:47:26.943+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T21:47:58.037+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T21:48:07.711+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 500, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.2693305}
+2024-06-17T21:55:32.952+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T21:55:32.953+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T21:55:35.006+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T21:55:47.580+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 200, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.2268423}
+2024-06-17T21:56:01.483+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T21:56:01.483+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T21:56:03.638+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T21:56:12.380+0800	INFO	middlewares/logger.go:61	/api/user/register	{"status": 200, "method": "POST", "path": "/api/user/register", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.2485299}
+2024-06-17T22:14:39.991+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T22:14:39.993+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T22:20:31.154+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T22:21:12.346+0800	INFO	middlewares/logger.go:61	/api/user/login	{"status": 404, "method": "GET", "path": "/api/user/login", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0}
+2024-06-17T22:21:35.580+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T22:21:35.580+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-17T22:21:38.089+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-17T22:21:45.007+0800	INFO	middlewares/logger.go:61	/api/user/login	{"status": 200, "method": "POST", "path": "/api/user/login", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.1068261}
+2024-06-17T22:56:01.992+0800	INFO	middlewares/logger.go:61	/ping	{"status": 404, "method": "GET", "path": "/ping", "query": "", "ip": "192.168.31.1", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0", "errors": "", "cost": 0.0000916}
+2024-06-17T22:56:02.097+0800	INFO	middlewares/logger.go:61	/favicon.ico	{"status": 404, "method": "GET", "path": "/favicon.ico", "query": "", "ip": "192.168.31.1", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0", "errors": "", "cost": 0}
+2024-06-17T23:28:32.599+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-17T23:28:32.601+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T08:43:02.144+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T08:43:17.763+0800	INFO	middlewares/logger.go:61	/api/cemetery/list	{"status": 404, "method": "GET", "path": "/api/cemetery/list", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0}
+2024-06-19T08:44:05.586+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T08:44:05.586+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T08:44:08.346+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T08:44:20.460+0800	INFO	middlewares/logger.go:61	/api/cemetery/list	{"status": 200, "method": "GET", "path": "/api/cemetery/list", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0494786}
+2024-06-19T08:52:23.739+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T08:52:23.741+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T08:52:26.998+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T08:52:33.289+0800	INFO	middlewares/logger.go:61	/api/cemetery/list	{"status": 200, "method": "GET", "path": "/api/cemetery/list", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0240054}
+2024-06-19T08:54:18.838+0800	INFO	middlewares/logger.go:61	/api/cemetery/name	{"status": 200, "method": "GET", "path": "/api/cemetery/name", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0244969}
+2024-06-19T08:55:34.385+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T08:55:34.385+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T08:55:37.286+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T08:55:44.317+0800	INFO	middlewares/logger.go:61	/api/cemetery/name	{"status": 200, "method": "GET", "path": "/api/cemetery/name", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0497202}
+2024-06-19T08:57:14.099+0800	INFO	middlewares/logger.go:61	/api/cemetery/id	{"status": 404, "method": "GET", "path": "/api/cemetery/id", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0}
+2024-06-19T08:57:17.805+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T08:57:17.806+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T08:57:20.744+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T08:57:26.227+0800	INFO	middlewares/logger.go:61	/api/cemetery/id	{"status": 200, "method": "GET", "path": "/api/cemetery/id", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0552499}
+2024-06-19T09:07:53.139+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T09:07:53.141+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T09:07:56.486+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T09:08:06.293+0800	INFO	middlewares/logger.go:61	/api/cemetery/id	{"status": 200, "method": "GET", "path": "/api/cemetery/id", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0635472}
+2024-06-19T09:19:07.675+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T09:19:07.675+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T09:19:23.417+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T10:08:52.910+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T10:08:52.913+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T10:08:57.127+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T10:09:45.115+0800	INFO	middlewares/logger.go:61	/api/cemetery/id	{"status": 200, "method": "GET", "path": "/api/cemetery/id", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0695425}
+2024-06-19T10:10:30.225+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T10:10:30.236+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T10:10:33.213+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T10:12:09.074+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T10:12:09.074+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T10:12:12.567+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T10:14:20.985+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T10:14:20.985+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T10:14:25.358+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T10:25:56.134+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T10:25:56.136+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T10:25:59.656+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T10:28:11.324+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T10:28:11.336+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T10:28:14.576+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T10:31:04.995+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T10:31:05.008+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T10:31:08.172+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T10:46:11.776+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T10:46:11.788+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T10:46:15.213+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T11:43:21.397+0800	INFO	middlewares/logger.go:61	/api/attraction/list	{"status": 404, "method": "GET", "path": "/api/attraction/list", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0}
+2024-06-19T11:43:23.920+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T11:43:23.922+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T11:43:52.519+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T11:43:58.939+0800	INFO	middlewares/logger.go:61	/api/attraction/list	{"status": 500, "method": "GET", "path": "/api/attraction/list", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0023078}
+2024-06-19T11:44:02.044+0800	INFO	middlewares/logger.go:61	/api/attraction/list	{"status": 500, "method": "GET", "path": "/api/attraction/list", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0015403}
+2024-06-19T11:45:31.154+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T11:45:31.155+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T11:45:53.283+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T11:45:57.214+0800	INFO	middlewares/logger.go:61	/api/attraction/list	{"status": 500, "method": "GET", "path": "/api/attraction/list", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0018899}
+2024-06-19T11:47:07.258+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T11:47:07.259+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T11:47:09.914+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T11:47:11.123+0800	INFO	middlewares/logger.go:61	/api/attraction/list	{"status": 500, "method": "GET", "path": "/api/attraction/list", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0015394}
+2024-06-19T11:47:29.564+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T11:47:29.564+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T11:47:32.465+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T11:47:48.203+0800	INFO	middlewares/logger.go:61	/api/attraction/list	{"status": 500, "method": "GET", "path": "/api/attraction/list", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.001545}
+2024-06-19T13:58:46.401+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T13:58:46.404+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T13:58:50.188+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T13:58:57.464+0800	INFO	middlewares/logger.go:61	/api/attraction/list	{"status": 500, "method": "GET", "path": "/api/attraction/list", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0025611}
+2024-06-19T13:59:15.435+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T13:59:15.435+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T13:59:17.998+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T13:59:20.960+0800	INFO	middlewares/logger.go:61	/api/attraction/list	{"status": 500, "method": "GET", "path": "/api/attraction/list", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0013429}
+2024-06-19T14:00:13.004+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T14:00:13.015+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T14:00:15.739+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T14:00:22.236+0800	INFO	middlewares/logger.go:61	/api/attraction/list	{"status": 200, "method": "GET", "path": "/api/attraction/list", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0552739}
+2024-06-19T14:07:05.571+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T14:07:05.573+0800	INFO	GuidingSystem/main.go:67	Server exited!
+2024-06-19T14:07:09.408+0800	INFO	GuidingSystem/main.go:34	Server started!
+2024-06-19T14:07:50.447+0800	INFO	middlewares/logger.go:61	/api/cemetery/id	{"status": 200, "method": "GET", "path": "/api/cemetery/id", "query": "", "ip": "127.0.0.1", "user-agent": "Apifox/1.0.0 (https://apifox.com)", "errors": "", "cost": 0.0531144}
+2024-06-19T15:12:18.169+0800	INFO	GuidingSystem/main.go:56	Shutdown Server.
+2024-06-19T15:12:18.180+0800	INFO	GuidingSystem/main.go:67	Server exited!

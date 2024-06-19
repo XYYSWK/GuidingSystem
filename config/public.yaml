@@ -1,0 +1,21 @@
+Server: # 服务配置
+  RunMode: debug # gin 的运行模式（release 是生产模式）
+  HttpPort: :8000 # 默认的 HTTP 监听端口
+  ReadTimeout: 5s # 允许读取的最大持续时间
+  WriteTimeout: 5s # 允许写入的最大持续时间
+  DefaultContextTimeout: 10s # 默认上下文超时
+App:
+  Name: GuidingSystem
+  Version: 1.0.0
+  StartTime: "2024-06-17"
+  MachineID: 0
+Log: # 日志配置
+  Level: debug
+  LogSavePath: "storage/appLogs/" # 日志保存路径
+  HighLevelFile: error # 高级别日志文件名
+  LowLevelFile: info # 低级别日志文件名
+  LogFileExt: .log # 日志文件后缀
+  MaxSize: 10 # 日志文件最大大小（MB）
+  MaxAge: 30 # 日志文件最大保存天数
+  MaxBackups: 7 # 最大备份数
+  Compress: false # 是否压缩
